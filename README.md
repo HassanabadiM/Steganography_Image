@@ -1,4 +1,4 @@
-# Steganography_Image
+tnx to jadi❤️ (https://github.com/jadijadi)
 "A basic Python implementation of steganography to hide text in image pixels."
 
 # Simple Image Steganography
