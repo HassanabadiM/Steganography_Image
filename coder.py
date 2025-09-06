@@ -1,6 +1,6 @@
 from PIL import Image
 
-password='@testtest'
+password='testtest'
 img=Image.open('img.jpg')
 
 for i , chr in enumerate(password):
